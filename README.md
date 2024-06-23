@@ -171,4 +171,14 @@ Feel free to explore the repository and contribute if you have any suggestions o
 
 ---
 
+## Authorship
+
+**Panagiotis Georgiadis**  
+Graduate Student  
+University of Colorado Boulder  
+Computer Science  
+College of Engineering and Applied Science
+
+---
+
 By following this structured approach, I hope to achieve remarkable results and secure a position in the AWS AI & ML Scholarship program. Thank you for visiting my repository!
